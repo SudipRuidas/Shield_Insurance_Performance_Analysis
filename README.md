@@ -16,21 +16,21 @@ The analysis is based on a pilot project initiated by Shield Insurance to evalua
    - Monthly revenue and daily growth trends.  
    - Policy revenue distribution and demographic insights.  
     <br>  
-     ![General View Screenshot](https://raw.githubusercontent.com/SudipRuidas/Shield_Insurance_Performance_Analysis/refs/heads/master/Images/General%20View.jpg)  
+![General View](https://raw.githubusercontent.com/SudipRuidas/Shield_Insurance_Performance_Analysis/refs/heads/master/Images/General%20View.jpg)      
     <br>
 2. **Sales Mode View**  
    - Revenue distribution by sales mode.  
    - Monthly trends for each sales channel.  
    - Policy preferences by sales mode with drill-down by age group.  
-   <br> 
-     ![Sales Mode View Screenshot](https://raw.githubusercontent.com/SudipRuidas/Shield_Insurance_Performance_Analysis/refs/heads/master/Images/Sales%20Mode%20View.jpg)  
+    <br> 
+![Sales View](https://raw.githubusercontent.com/SudipRuidas/Shield_Insurance_Performance_Analysis/refs/heads/master/Images/Sales%20Mode%20View.jpg)   
     <br>
 3. **Age Group View**  
    - Correlation between daily revenue growth and customer growth by age group.  
    - Revenue and customer distribution by age group and sales mode.  
    - Policy preferences and settlement percentages by age group.  
     <br>  
-     ![Age Group View Screenshot](https://raw.githubusercontent.com/SudipRuidas/Shield_Insurance_Performance_Analysis/refs/heads/master/Images/Age%20Group%20View.jpg)  
+![Age Group View](https://raw.githubusercontent.com/SudipRuidas/Shield_Insurance_Performance_Analysis/refs/heads/master/Images/Age%20Group%20View.jpg)    
     <br>
 ## **Insights Generated**  
 - Identified high-performing regions, age groups, and policies.  
